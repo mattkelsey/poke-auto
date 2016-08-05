@@ -40,6 +40,11 @@ Tested Devices:
  - Nexus 5x
  - Nexus 5
 
+### Open Pokémon Go
+
+ 1. Find a Poké-stop that your phone will be in range of for a while (like one next to your place of work or home).
+ 2. Open this Poké-stop and then put your device to sleep with the power button, leaving the app open.
+
 ### Execute Script
 
  1. Navigate into the repo directory.
