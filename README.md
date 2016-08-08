@@ -15,8 +15,11 @@ This process takes approximately 25 seconds to complete. This script should prob
 ### Install ADB
 
 Arch: `sudo pacman -S android-tools`
+
 Debian/Ubuntu/Mint: `sudo apt-get install android-tools-adb`
+
 OS X: `brew install android-platform-tools`
+
 Anything else: Google it
 
 ### Enable Developer Options
