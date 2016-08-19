@@ -48,6 +48,7 @@ Tested Devices:
  - Nexus 6
  - Nexus 5x
  - Nexus 5
+ - Motorola Droid Turbo
 
 ### Open Pokémon Go
 
