@@ -22,13 +22,19 @@ OS X: `brew install android-platform-tools`
 
 Anything else: Google it
 
-### Enable Developer Options
+### Enable Developer Options > USB debugging
+
+####Developer Options
 
 `Settings > About Phone`
 
-Tap `Build Number` seven (or more) times.
+Tap `Build Number` seven (or more) times.  This makes visible a hidden set of options.  There may be a 'master switch' for all development options at the top of the list; activate that.
 
 _Note: On some older versions of Android the settings path may be `Settings > About > Software Information`._
+
+####USB debugging
+
+Look for a USB debugging option within the developer options set, and activate it.
 
 ### Connect Phone
 
@@ -42,6 +48,9 @@ Tested Devices:
  - Nexus 6
  - Nexus 5x
  - Nexus 5
+ - Motorola Droid Turbo
+
+At this point your phone should ask for permission to allow USB debugging based on the computer it is plugged in to.  You'll need to allow this to use the tool.
 
 ### Open Pokémon Go
 

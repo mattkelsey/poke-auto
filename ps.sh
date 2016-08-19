@@ -27,5 +27,5 @@ do
     adb shell wm size reset
     adb shell input keyevent 26
     echo waiting six minutes
-    sleep 6m
+    sleep 315s
 done
