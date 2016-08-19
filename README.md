@@ -22,13 +22,19 @@ OS X: `brew install android-platform-tools`
 
 Anything else: Google it
 
-### Enable Developer Options
+### Enable Developer Options > USB debugging
+
+####Developer Options
 
 `Settings > About Phone`
 
-Tap `Build Number` seven (or more) times.
+Tap `Build Number` seven (or more) times.  This makes visible a hidden set of options.  There may be a 'master switch' for all development options at the top of the list; activate that.
 
 _Note: On some older versions of Android the settings path may be `Settings > About > Software Information`._
+
+####USB debugging
+
+Look for a USB debugging option within the developer options set, and activate it.
 
 ### Connect Phone
 
