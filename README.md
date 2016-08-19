@@ -50,6 +50,8 @@ Tested Devices:
  - Nexus 5
  - Motorola Droid Turbo
 
+At this point your phone should ask for permission to allow USB debugging based on the computer it is plugged in to.  You'll need to allow this to use the tool.
+
 ### Open Pokémon Go
 
  1. Find a Poké-stop that your phone will be in range of for a while (like one next to your place of work or home).
